@@ -22,3 +22,7 @@ The **Course Grade Predictor** helps students track their current grades, predic
    ```bash
    javac CourseGradePredictor.java
 
+4. Run the program:
+    ```bash
+    java CourseGradePredictor
+
